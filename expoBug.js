@@ -1,0 +1,1 @@
+This error typically occurs when you're using an older version of Expo CLI or when there's a mismatch between the versions of Expo CLI, Expo Go, and the project's dependencies.  The error message itself might not be very descriptive, often just mentioning a general failure during the start-up process.
